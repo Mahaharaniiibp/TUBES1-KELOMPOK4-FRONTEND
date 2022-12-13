@@ -52,7 +52,9 @@
 ## Tentang Kalkulator
 
 Fungsionalitas Kalkulator antara lain :
-- [ ] Add Addit
+- [ ] Menghitung operasi bilangan bulat
+- [ ] Menghitung operasi bilangan desimal
+- [ ] Mengubah persen menjadi desimal
 
 
 ### Prerequisites

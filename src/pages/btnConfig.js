@@ -2,8 +2,11 @@ export const BTN_ACTIONS = {
     ADD: 'ADD',
     THEME: 'THEME',
     CALC: 'CALC',
-    DELETE: 'DELETE'
+    DELETE: 'DELETE',
+    DEL: 'DEL',
+    PERCENT: "PERCENT"
 }
+
 export const btns = [
     {
         display: 'C',
@@ -11,13 +14,13 @@ export const btns = [
         class: 'btn__op'
     },
     {
-        display: '(',
-        action: BTN_ACTIONS.ADD,
+        display: '<',
+        action: BTN_ACTIONS.DEL,
         class: 'btn__op'
     },
     {
-        display: ')',
-        action: BTN_ACTIONS.ADD,
+        display: '%',
+        action: BTN_ACTIONS.PERCENT,
         class: 'btn__op'
     },
     {

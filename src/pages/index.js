@@ -128,7 +128,7 @@ function index() {
               </div>
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/assets/Andini.JPG" />
+                  <img src="/assets/Andini.jpg" />
                 </div>
                 <div>
                   <h3>Masyita Andini Larasati</h3>
@@ -160,7 +160,7 @@ function index() {
               </div>
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/assets/Rani.JPG" />
+                  <img src="/assets/Rani.jpg" />
                 </div>
                 <div>
                   <h3>Maharani B'anica Putri</h3>

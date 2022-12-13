@@ -8,6 +8,6 @@ services:
     ports:
       - 3000:3000
     image: app:react
-    container_name: react_container 
+    container_name: tubes_container 
     command: npm start
   

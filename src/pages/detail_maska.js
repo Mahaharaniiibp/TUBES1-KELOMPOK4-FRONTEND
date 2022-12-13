@@ -35,13 +35,13 @@ const Detail_maska = () => {
       </div>
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src="Assets/maska_slide1_fix.png" className="d-block w-100" alt="..." />
+          <img src="/Assets/maska_slide1_fix.png" className="d-block w-100" alt="..." />
         </div>
         <div className="carousel-item">
-          <img src="Assets/Bacground Home.png" className="d-block w-100" alt="..." />
+          <img src="/Assets/Bacground Home.png" className="d-block w-100" alt="..." />
         </div>
         <div className="carousel-item">
-          <img src="Assets/maska_basket.png" className="d-block w-100" alt="..." />
+          <img src="/Assets/maska_basket.png" className="d-block w-100" alt="..." />
         </div>
       </div>
       <button className="carousel-control-prev" type="button" data-bs-target="#carouselFoto" data-bs-slide="prev">

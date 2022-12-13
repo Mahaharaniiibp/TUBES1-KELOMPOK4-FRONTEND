@@ -63,7 +63,7 @@ function index() {
             <div className="flex-container space-between">
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/Assets/Maska.jpg" />
+                  <img src="/assets/Maska.jpg" />
                 </div>
                 <div>
                   <h3>Maskharor Amnan Nidhom</h3>
@@ -96,7 +96,7 @@ function index() {
               </div>
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/Assets/Aufa.jpg" />
+                  <img src="/assets/Aufa.jpg" />
                 </div>
                 <div>
                   <h3>Moh. Aufa Azka Fabian</h3>
@@ -128,7 +128,7 @@ function index() {
               </div>
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/Assets/Andini.JPG" />
+                  <img src="/assets/Andini.JPG" />
                 </div>
                 <div>
                   <h3>Masyita Andini Larasati</h3>
@@ -160,7 +160,7 @@ function index() {
               </div>
               <div className="col card">
                 <div className="img-placeholder">
-                  <img src="/Assets/Rani.JPG" />
+                  <img src="/assets/Rani.JPG" />
                 </div>
                 <div>
                   <h3>Maharani B'anica Putri</h3>

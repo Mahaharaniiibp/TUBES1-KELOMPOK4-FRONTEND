@@ -58,10 +58,10 @@ function index() {
       </section>
       {/* End of video */}
       <section id="sec_profile">
-        <div className="row">
-          <div className="card mx-auto">
-            <div className="flex-container space-between">
-              <div className="col card">
+        <div className="main-box">
+          <div className="main center">
+            <div className="box center">
+              <div class="col card">
                 <div className="img-placeholder">
                   <img src="/assets/Maska.jpg" />
                 </div>
@@ -162,6 +162,7 @@ function index() {
                 <div className="img-placeholder">
                   <img src="/assets/Rani.jpg" />
                 </div>
+
                 <div>
                   <h3>Maharani B'anica Putri</h3>
                   <p>

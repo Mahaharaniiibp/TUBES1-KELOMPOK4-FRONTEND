@@ -322,7 +322,7 @@ a:hover {
     height: 0px;
   }
   .navs > #nav-check:checked ~ .nav-links {
-    height: calc(30vh - 50px);
+    height: calc(30vh - 140px);
     overflow-y: auto;
   }
   .flex-container {
@@ -474,7 +474,7 @@ a:hover {
     height: 0px;
   }
   .navs > #nav-check:checked ~ .nav-links {
-    height: calc(30vh - 50px);
+    height: calc(32vh - 0px);
     overflow-y: auto;
   }
   .container-biodata {

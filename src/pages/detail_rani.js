@@ -23,6 +23,7 @@ const Detail_rani = () => {
             <a href="/"> Home</a>
             <a href="#sec_biodata"> Biodata</a>
             <a href="#sec_maps"> Maps</a>
+            <a href="calculator"> Calculator</a>
           </div>
         </div>
         {/* end of navbar */}
@@ -35,13 +36,13 @@ const Detail_rani = () => {
           </div>
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="/Assets/rani_slide1.png" className="d-block w-100" alt="..." />
+              <img src="/assets/rani_slide1.png" className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="/Assets/Bacground Home.png" className="d-block w-100" alt="..." />
+              <img src="/assets/BacgroundHome.png" className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="/Assets/rani_slide3.png" className="d-block w-100" alt="..." />
+              <img src="/assets/rani_slide3.png" className="d-block w-100" alt="..." />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselFoto" data-bs-slide="prev">

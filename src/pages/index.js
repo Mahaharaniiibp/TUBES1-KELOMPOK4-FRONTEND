@@ -58,142 +58,139 @@ function index() {
       </section>
       {/* End of video */}
       <section id="sec_profile">
-        <div className="main-box">
-          <div className="main center">
-            <div className="box center">
-              <div class="col card">
-                <div className="img-placeholder">
-                  <img src="/assets/Maska.jpg" />
-                </div>
-                <div>
-                  <h3>Maskharor Amnan Nidhom</h3>
-                  <p>
-                    <i className="fa-solid fa-user" /> XI RPL 2
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-paper-plane" />{" "}
-                    <a href=" https://www.instagram.com/maska16_/">
-                      Sosmed: @maska16_{" "}
-                    </a>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Alamat: Malang
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Tanggal Lahir: 16 Desember 2005
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Hobi: Basket
-                  </p>
+          <div className="main-box">
+                <div class="col card">
+                  <div className="img-placeholder">
+                    <img src="/assets/Maska.jpg" />
+                  </div>
+                  <div className="detail-img">
+                    <h3>Maskharor Amnan N.</h3>
+                    <p>
+                      <i className="fa-solid fa-user" /> XI RPL 2
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-paper-plane" />{" "}
+                      <a href=" https://www.instagram.com/maska16_/">
+                        Sosmed: @maska16_{" "}
+                      </a>
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Alamat: Malang
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Tanggal Lahir: 16 Desember 2005
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Hobi: Basket
+                    </p>
 
-                  <button>
-                    <a href="detail_maska">Detail</a>
-                  </button>
+                    <button>
+                      <a href="detail_maska">Detail</a>
+                    </button>
+                  </div>
                 </div>
-              </div>
-              <div className="col card">
-                <div className="img-placeholder">
-                  <img src="/assets/Aufa.jpg" />
+                <div className="col card">
+                  <div className="img-placeholder">
+                    <img src="/assets/Aufa.jpg" />
+                  </div>
+                  <div className="detail-img">
+                    <h3>Moh. Aufa Azka Fabian</h3>
+                    <p>
+                      <i className="fa-solid fa-user" /> XI RPL 3
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-paper-plane" />{" "}
+                      <a href="https://www.instagram.com/fabian_azka_/">
+                        Sosmed: @fabian_azka_
+                      </a>
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Alamat: Banyuwangi
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Tanggal Lahir: 05 Mei 2005
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Hobi: Berenang
+                    </p>
+                    <button>
+                      <a href="detail_aufa">Detail</a>
+                    </button>
+                  </div>
                 </div>
-                <div>
-                  <h3>Moh. Aufa Azka Fabian</h3>
-                  <p>
-                    <i className="fa-solid fa-user" /> XI RPL 3
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-paper-plane" />{" "}
-                    <a href="https://www.instagram.com/fabian_azka_/">
-                      Sosmed: @fabian_azka_
-                    </a>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Alamat: Banyuwangi
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Tanggal Lahir: 05 Mei 2005
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Hobi: Berenang
-                  </p>
-                  <button>
-                    <a href="detail_aufa">Detail</a>
-                  </button>
-                </div>
-              </div>
-              <div className="col card">
-                <div className="img-placeholder">
-                  <img src="/assets/Andini.jpg" />
-                </div>
-                <div>
-                  <h3>Masyita Andini Larasati</h3>
-                  <p>
-                    <i className="fa-solid fa-user" /> XI RPL 1
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-paper-plane" />{" "}
-                    <a href="https://www.instagram.com/masyitaandinii/">
-                      Sosmed: @masyitaandinii
-                    </a>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Alamat: Malang
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Tanggal Lahir: 21 September 2005
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Hobi: Voli
-                  </p>
-                  <button>
-                    <a href="detail_andini">Detail</a>
-                  </button>
-                </div>
-              </div>
-              <div className="col card">
-                <div className="img-placeholder">
-                  <img src="/assets/Rani.jpg" />
-                </div>
+                <div className="col card">
+                  <div className="img-placeholder">
+                    <img src="/assets/Andini.jpg" />
+                  </div>
+                  <div className="detail-img">
+                    <h3>Masyita Andini Larasati</h3>
+                    <p>
+                      <i className="fa-solid fa-user" /> XI RPL 1
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-paper-plane" />{" "}
+                      <a href="https://www.instagram.com/masyitaandinii/">
+                        Sosmed: @masyitaandinii
+                      </a>
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Alamat: Malang
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Tanggal Lahir: 21 September 2005
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Hobi: Voli
+                    </p>
+                    <button>
+                      <a href="detail_andini">Detail</a>
+                    </button>
+                  </div>
 
-                <div>
-                  <h3>Maharani B'anica Putri</h3>
-                  <p>
-                    <i className="fa-solid fa-user" /> XI RPL 1
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-paper-plane" />{" "}
-                    <a href="https://www.instagram.com/maharaniiibp/">
-                      Sosmed: @maharaniiibp
-                    </a>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Alamat: Tulungangung
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Tanggal Lahir: 01 Juni 2005
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-location-dot" />
-                    Hobi: Menonton Film
-                  </p>
-                  <button>
-                    <a href="detail_rani">Detail</a>
-                  </button>
                 </div>
+                <div className="col card">
+                  <div className="img-placeholder">
+                    <img src="/assets/Rani.jpg" />
+                  </div>
+
+                  <div className="detail-img">
+                    <h3>Maharani B'anica Putri</h3>
+                    <p>
+                      <i className="fa-solid fa-user" /> XI RPL 1
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-paper-plane" />{" "}
+                      <a href="https://www.instagram.com/maharaniiibp/">
+                        Sosmed: @maharaniiibp
+                      </a>
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Alamat: Tulungangung
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Tanggal Lahir: 01 Juni 2005
+                    </p>
+                    <p>
+                      <i className="fa-solid fa-location-dot" />
+                      Hobi: Menonton Film
+                    </p>
+                    <button>
+                      <a href="detail_rani">Detail</a>
+                    </button>
+                  </div>
               </div>
-            </div>
           </div>
-        </div>
       </section>
       {/* footer */}
       <footer className="footer">

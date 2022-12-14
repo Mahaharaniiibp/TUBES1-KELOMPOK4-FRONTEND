@@ -58,7 +58,6 @@ function index() {
       </section>
       {/* End of video */}
       <section id="sec_profile">
-        
           <div className="main-box">
                 <div class="col card">
                   <div className="img-placeholder">
@@ -156,6 +155,7 @@ function index() {
                       <a href="detail_andini">Detail</a>
                     </button>
                   </div>
+
                 </div>
                 <div className="col card">
                   <div className="img-placeholder">
@@ -189,7 +189,6 @@ function index() {
                       <a href="detail_rani">Detail</a>
                     </button>
                   </div>
-                
               </div>
           </div>
       </section>

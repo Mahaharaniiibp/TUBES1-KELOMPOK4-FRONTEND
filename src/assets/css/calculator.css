@@ -39,7 +39,7 @@
 .calculator__btns button:last-child {
   border-radius: 50%;
   color: var(--txt-white);
-  background-image: linear-gradient(312deg, #cd6e36, #d400ff);
+  background-image: linear-gradient(312deg, #3d0e0e, #ff0000);
 }
 .calculator__btns .btn__op {
   color: var(--calc-btn-color);
@@ -79,7 +79,7 @@
   --txt-color: #6d6d6d;
   --txt-white: #fff;
   --calc-res-color: #2f2d2f;
-  --calc-btn-color: #d400ff;
+  --calc-btn-color: #ff0051;
   --calc-bg: #fff;
 }
 
